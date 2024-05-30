@@ -1,0 +1,1 @@
+when you add a (home) feature, and add page.tsx
